@@ -1,5 +1,5 @@
-# FlashCards
+
+<img src="/card.png" width="100px"># FlashCards
 
 With plain JavaScript
 
-<img src="/card.png" width="100px">
